@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/shuffle_image"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/icon_shuffle"
+        android:title="Shuffle"
+        app:showAsAction="always" />
+
+</menu>
